@@ -1,0 +1,25 @@
+header {
+  text-align:center; 
+  background-color:#d4f4f4; 
+  font-family:montserrat; 
+  color:#005043;
+  padding:20px;
+  font-size:40px;}
+
+h1, h2, p, dd {
+  text-align:left;}
+
+#s1 {
+  font-family:garamond;
+  color:#201658;
+  font-size:35px;}
+
+.s2 {
+  color:#265073;
+  font-size:30px}
+
+p, dd {
+  font-family:garamond;
+  color:#092635;
+  font-size:20px}
+  
